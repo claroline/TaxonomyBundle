@@ -21,5 +21,6 @@
     "autoload": {
         "psr-0": { "Claroline\\TaxonomyBundle": "" }
     },
-    "target-dir": "Claroline/TaxonomyBundle"
+    "target-dir": "Claroline/TaxonomyBundle",
+    "minimum-stability": "dev"
 }
